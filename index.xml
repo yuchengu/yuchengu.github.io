@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuchen&#39;s Blog</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Yuchen&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 May 2019 15:02:47 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post Yay</title>
+      <link>http://example.org/posts/my-first-post-yay/</link>
+      <pubDate>Wed, 29 May 2019 15:02:47 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post-yay/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
